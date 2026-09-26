@@ -1,0 +1,12 @@
+INTERCLASSES LG - EXECUÇÃO NO GITHUB CODESPACES
+
+1. Suba O CONTEÚDO desta pasta para a raiz do repositório da equipe.
+2. No GitHub: Code > Codespaces > Create codespace on main.
+3. Aguarde a instalação automática das dependências.
+4. No terminal, execute: npm start
+5. Abra PORTS/PORTAS > 5173 > Open in Browser.
+
+IMPORTANTE:
+- package.json deve ficar na raiz do repositório.
+- Não envie node_modules para o GitHub.
+- Não execute npm audit fix --force antes da apresentação.
